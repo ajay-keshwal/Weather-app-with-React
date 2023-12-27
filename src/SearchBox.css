@@ -1,0 +1,28 @@
+.Search{
+    margin-top: 0;
+    padding-top:0 ;
+   height:10rem;
+   width:40rem;
+   display: flex;
+   justify-content:space-evenly;
+
+}
+
+
+#s-form{
+
+    margin-top:15px;
+    
+
+}
+#s-form button{
+    margin-left:8px;
+    width:8rem;
+    height:2.5rem;
+}
+#outlined-basic{
+    margin-right:20px;
+    height:0.5rem;
+    width:16rem;
+
+}
